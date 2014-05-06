@@ -5,6 +5,9 @@ A jQuery carousel. Great for impressive looking home pages!
 ##Requirements
 jQuery 1.*
 
+##Demo
+[2012 NZ International Arts Festival](http://2012.festival.co.nz)
+
 ##Usage example
 
 ###HTML
