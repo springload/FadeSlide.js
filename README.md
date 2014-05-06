@@ -2,6 +2,9 @@
 
 A jQuery carousel. Great for impressive looking home pages!
 
+##Requirements
+jQuery 1.*
+
 ##Usage example
 
 ###HTML
